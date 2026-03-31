@@ -1,6 +1,8 @@
 import requests
 import re
 import json
+import pandas as pd
+import concurrent.futures
 
 def analiza_domeniu(url,reguli_tehnologii):
 
@@ -39,33 +41,29 @@ def analiza_domeniu(url,reguli_tehnologii):
                     tehnologii_gasite[teh]=f"s a gasit {nume_cookie} in cookies"
                     continue
 
-        return {"succes": True, "tehnologii": tehnologii_gasite, "eroare": None}
+        return url,{"succes": True, "tehnologii": tehnologii_gasite, "eroare": None}
 
+    except requests.exceptions.Timeout:
+        return url, {"succes": False, "tehnologii": {}, "eroare": "Timeout"}
     except Exception as e:
-        return {"succes": False, "tehnologii": {}, "eroare": str(e)}
+        return url,{"succes": False, "tehnologii": {}, "eroare": str(e)}
 
 with open('reguli.json','r',encoding='utf-8') as fisier:
     reguli_incarcate=json.load(fisier)
 
-domenii_de_test = [
-    "kyliecosmetics.com",
-    "wordpress.org",
-    "shopify.com"
-]
+tabel_date = pd.read_parquet('domenii.parquet')
+lista_domenii = tabel_date['root_domain'].tolist()
 
-rezultate_totale = {}
+lista_domenii=list(set(lista_domenii))
+rezultate_finale={}
 
-for domeniu in domenii_de_test:
-    print(f"analiza pe : {domeniu}...")
+with concurrent.futures.ThreadPoolExecutor(max_workers=15) as executor:
 
-    rezultat = analiza_domeniu(domeniu, reguli_incarcate)
+    joburi=[executor.submit(analiza_domeniu,domeniu,reguli_incarcate) for domeniu in lista_domenii]
 
-    rezultate_totale[domeniu] = rezultat
+    for job in concurrent.futures.as_completed(joburi):
+        url_domeniu,rezultat=job.result()
+        rezultate_finale[url_domeniu]=rezultat
 
-    if rezultat["succes"]:
-        if rezultat["tehnologii"]:
-            print(f"gasite:{list(rezultat['tehnologii'].keys())}")
-        else:
-            print("gasite:Niciuna")
-    else:
-        print(f"[:{rezultat['eroare']}")
+with open('rezultate_scanare.json','w',encoding='utf-8') as f:
+    json.dump(rezultate_finale,f,indent=4,ensure_ascii=False)

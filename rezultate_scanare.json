@@ -1,0 +1,1213 @@
+{
+    "https://aida-cruises.at": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://mehmetefendimacedonia.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://100wwcstlw.org": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server"
+        },
+        "eroare": null
+    },
+    "https://yourfamilylines.com": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='yourfamilylines.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)')))"
+    },
+    "https://2020wealthadvisory.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server",
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://abcdpinturas.com.br": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='abcdpinturas.com.br', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='abcdpinturas.com.br', port=443): Failed to resolve 'abcdpinturas.com.br' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://makpharma-eg.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://brucebournesold.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://centreconsiliereavort.ro": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://herbalwise.ie": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server",
+            "Shopify": "s a gasit tiparul cdn\\.shopify\\.com in codul html"
+        },
+        "eroare": null
+    },
+    "https://disneystore.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server"
+        },
+        "eroare": null
+    },
+    "https://hnafirm.com": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://nielsbirk.dk": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://38inspect.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server",
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://resourceservicesolutions.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://3dwealthadvisory.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server",
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://ledestjernenstu.dk": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://largsbaychiropractic.com.au": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://doringpoort.com": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://itsolutions24.pl": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://miratrade.com.tr": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server",
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://gitesducharmois.fr": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://2agateway.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server",
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://lighthouseprc.org": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://trs-energycontrol.de": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://maniaupiekszania.pl": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://weissbauchpapageien.de": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server"
+        },
+        "eroare": null
+    },
+    "https://allegrocreditbeta.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://nicholsonchiro.com": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://mysterion.hr": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server",
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://abbikadabbisbakingco.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server"
+        },
+        "eroare": null
+    },
+    "https://wglchurch.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://europeaninns.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://freo.com.au": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://haus-muehlenfeld-pommerby.de": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://handycars.com": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='handycars.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='handycars.com', port=443): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+    },
+    "https://stwannas.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server"
+        },
+        "eroare": null
+    },
+    "https://phucankhanggroup.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://redpants.jp": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://insieme.stanford.edu": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://aaice.net": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server",
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://restwellstreetmedicalcentre.com.au": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://253media.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server"
+        },
+        "eroare": null
+    },
+    "https://evelynanders.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://cmc01village.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server"
+        },
+        "eroare": null
+    },
+    "https://powercleaning.services": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://domekvefaru.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://oakwell.vet": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://cei-expertises.fr": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://tamcconstruction.net": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://soziale-dreigliederung.de": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='soziale-dreigliederung.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)')))"
+    },
+    "https://fsbwyoming.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://szentkristofudvarhaz.hu": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html",
+            "Google Analytics": "s a gasit tiparul google-analytics\\.com/analytics\\.js in codul html"
+        },
+        "eroare": null
+    },
+    "https://joseph-herber.business.site": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://construccionesyatecnicas.com": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='construccionesyatecnicas.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)')))"
+    },
+    "https://dssfla.com": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://appelpsychotherapy.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://kentpropertyrenovations.co.uk": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://unitedveterinaryservice.com": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://a3sec.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server"
+        },
+        "eroare": null
+    },
+    "https://labdemo.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://ejc-courtage-assurances.fr": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://avocatalinamanciu.ro": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://5w.design": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server",
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://arenaskolor.se": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://jenniferbacksteininteriors.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://rivithead.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://katesworldtravel.com": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://nevsproductions.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://231selfstorage.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server",
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://2ldm.com": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://roccofortehotels.cn": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://somalidisablesupport.com": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://radxmobile.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://antikebau.de": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://deepseass.com": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://261welfarefund.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server",
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://kande-hoikuen.ed.jp": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://11853prospecthill.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server"
+        },
+        "eroare": null
+    },
+    "https://cultivateventures.co.nz": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='www.cultivateventures.co.nz', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cultivateventures.co.nz'. (_ssl.c:997)\")))"
+    },
+    "https://5starremoval.weebly.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server"
+        },
+        "eroare": null
+    },
+    "https://amaronbattery.in": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='amaronbattery.in', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'amaronbattery.in'. (_ssl.c:997)\")))"
+    },
+    "https://weducars.co.za": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://lets.gr": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://aardvarkelectriccorp.com": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='aardvarkelectriccorp.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)')))"
+    },
+    "https://bfnelson.it": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://stoperbis.pl": {
+        "succes": true,
+        "tehnologii": {
+            "Google Analytics": "s a gasit tiparul google-analytics\\.com/analytics\\.js in codul html"
+        },
+        "eroare": null
+    },
+    "https://jonesbuickgmc.com": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='jonesbuickgmc.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='jonesbuickgmc.com', port=443): Failed to resolve 'jonesbuickgmc.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://orifoodsco.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://3bsexcavating.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server",
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://gogroupauto.com": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='gogroupauto.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='gogroupauto.com', port=443): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+    },
+    "https://wrinkle-pei.cz": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='wrinkle-pei.cz', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'wrinkle-pei.cz'. (_ssl.c:997)\")))"
+    },
+    "https://cmresolutions.com": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='cmresolutions.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cmresolutions.com'. (_ssl.c:997)\")))"
+    },
+    "https://arol.cl": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://loizillon.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://elcolegiocongresosyrestaurante.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://layer7innovations.ca": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server"
+        },
+        "eroare": null
+    },
+    "https://marien-apotheke-grefrath-app.de": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://rsthealthcare.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://broganlmt.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://laplumedelisibilite.fr": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://fluxar.com.ar": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://huberautomotive.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://shapirolawfirm.com": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='shapirolawfirm.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)')))"
+    },
+    "https://newbeaverborough.org": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://xn--kleoghvidevareservice-qfc.dk": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://dioxoxigenio.com.br": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='dioxoxigenio.com.br', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'dioxoxigenio.com.br'. (_ssl.c:997)\")))"
+    },
+    "https://11thhourracing.org": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server"
+        },
+        "eroare": null
+    },
+    "https://buchhaltungsservice-koenig.de": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://skywardspeech.com.au": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://bas-ingenieria.cl": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://3-energie-klaas.de": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server"
+        },
+        "eroare": null
+    },
+    "https://3xd.co.uk": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server",
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://koniczynka.info.pl": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://ideenhunger.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server"
+        },
+        "eroare": null
+    },
+    "https://pcb-cpb.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://empresasori.com": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='empresasori.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)')))"
+    },
+    "https://amourfinder.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://nwmotorinn.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server"
+        },
+        "eroare": null
+    },
+    "https://bata.edu.hu": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://produkttheater.de": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='produkttheater.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'produkttheater.de'. (_ssl.c:997)\")))"
+    },
+    "https://1ststopsupply.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server",
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://concrete-fitness.edan.io": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server"
+        },
+        "eroare": null
+    },
+    "https://natedea.co.uk": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://1planettechnologies.weebly.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server"
+        },
+        "eroare": null
+    },
+    "https://eclairage-solaire-occitanie.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://ferienwohnung-kastell.de": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='ferienwohnung-kastell.de', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='ferienwohnung-kastell.de', port=443): Failed to resolve 'ferienwohnung-kastell.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://howellmotors.com": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='howellmotors.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='howellmotors.com', port=443): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+    },
+    "https://lorenz-baumarkt.de": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://littlerockafamily.de": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='littlerockafamily.de', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='littlerockafamily.de', port=443): Failed to resolve 'littlerockafamily.de' ([Errno 11002] getaddrinfo failed)\"))"
+    },
+    "https://3strandschurch.org": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server",
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://xn--jobvrkstedet-9cb.nu": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://coenzwezerijnen.nu": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='coenzwezerijnen.nu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)')))"
+    },
+    "https://la-residenza-del-principe-rome-it.booked.net": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server"
+        },
+        "eroare": null
+    },
+    "https://doortodoororganics.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server"
+        },
+        "eroare": null
+    },
+    "https://1stlocksheathscouts.org.uk": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server",
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://globalrn.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server"
+        },
+        "eroare": null
+    },
+    "https://jcmobilecigars.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://celiabedilia.com": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='celiabedilia.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='celiabedilia.com', port=443): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+    },
+    "https://westchesterpointechiro.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://deerfieldbeachautomall.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://sdmdjentertainment.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://lscms.org": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://passwordstore.it": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://gapconstructionwi.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://959marine.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server"
+        },
+        "eroare": null
+    },
+    "https://ferrateoxidant.com": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://familybroker.cz": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='familybroker.cz', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)')))"
+    },
+    "https://coastwidemechanicalcentralcoast.com.au": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://msc-manching.de": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://solvos.nl": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://rionecontrastanga.net": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://1stclairavewest.com": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='1stclairavewest.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)')))"
+    },
+    "https://northshoremacnut.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://genesisny.net": {
+        "succes": true,
+        "tehnologii": {
+            "Google Analytics": "s a gasit tiparul google-analytics\\.com/analytics\\.js in codul html"
+        },
+        "eroare": null
+    },
+    "https://juanmunozhomesmart.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://sgsextremaratio.it": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://sindacatobadanti.it": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://maiquotes.net": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='maiquotes.net', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'maiquotes.net'. (_ssl.c:997)\")))"
+    },
+    "https://sprucemeadowsmd.com": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://clotting-guide.online": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://boken.ch": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://thomasrosenbaum.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://unnames.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server",
+            "Shopify": "s a gasit tiparul cdn\\.shopify\\.com in codul html"
+        },
+        "eroare": null
+    },
+    "https://fisherinvestments.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://hansis-knusperhendl-foodtruck.eatbu.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://massageforworldpeace.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://den-a-sha.co.jp": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://premierhomeremodeling.net": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://footasylum.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://5rcircleprocess.weebly.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server"
+        },
+        "eroare": null
+    },
+    "https://dorpsbelangen.nu": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://seringa-safaris.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://4stonebuildings.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server",
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://skywayrestaurants.net": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://imgs.co.jp": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://everhartsoutdoor.com": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='www.everhartsoutdoor.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.everhartsoutdoor.com'. (_ssl.c:997)\")))"
+    },
+    "https://365outsource.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server",
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://sevecoitalia.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://davidloeppke.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://disinfestazioniepiscine.it": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html",
+            "Google Analytics": "s a gasit tiparul google-analytics\\.com/analytics\\.js in codul html"
+        },
+        "eroare": null
+    },
+    "https://jobresourcecentre.com": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://lojatatical.com.br": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://gutendorf.ru": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://2-com.net": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server"
+        },
+        "eroare": null
+    },
+    "https://chavchavadze-m2-41-tbilisi.booked.net": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server"
+        },
+        "eroare": null
+    },
+    "https://needaphysio.com": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://chiantifiorentino.it": {
+        "succes": true,
+        "tehnologii": {},
+        "eroare": null
+    },
+    "https://velvety.eu": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://startravelcompany.com": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "Timeout"
+    },
+    "https://infoaboutnetwork.com": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server",
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://alabamabuildingcontractor.com": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "Timeout"
+    },
+    "https://jackwills.com": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "Timeout"
+    },
+    "https://joburgheritage.org.za": {
+        "succes": true,
+        "tehnologii": {
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://hoffmaninstitute.co.uk": {
+        "succes": true,
+        "tehnologii": {
+            "Cloudflare": "s a gasit cloudflare in header-ul server",
+            "WordPress": "s a gasit tiparul wp-content/themes in codul html"
+        },
+        "eroare": null
+    },
+    "https://branson-connection.com": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "Timeout"
+    },
+    "https://costa-coffee.be": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "Timeout"
+    },
+    "https://ecolab.com": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "Timeout"
+    },
+    "https://cytofastmed.com": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "HTTPSConnectionPool(host='cytofastmed.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='cytofastmed.com', port=443): Failed to resolve 'cytofastmed.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://verticalcommunitychurch.com": {
+        "succes": false,
+        "tehnologii": {},
+        "eroare": "Timeout"
+    }
+}
