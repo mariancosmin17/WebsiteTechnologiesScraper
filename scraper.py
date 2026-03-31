@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import re
+import json
 
 url_de_test="https://kyliecosmetics.com"
 
@@ -8,21 +9,8 @@ headere_browser={
     "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
 
-reguli_tehnologii={
-    "Cloudflare":{
-        "headers":{"server":"cloudflare"}
-    },
-    "Shopify": {
-        "html": "cdn\\.shopify\\.com",
-        "cookies": "_shopify_y"
-    },
-    "WordPress": {
-        "html": "wp-content/themes"
-    },
-    "Google Analytics": {
-        "html": "google-analytics\\.com/analytics\\.js"
-    }
-}
+with open('reguli.json','r',encoding='utf-8') as fisier:
+    reguli_tehnologii=json.load(fisier)
 
 try:
     raspuns=requests.get(url_de_test,headers=headere_browser,timeout=10)

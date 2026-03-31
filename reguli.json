@@ -1,0 +1,17 @@
+{
+  "Cloudflare": {
+    "headers": {
+      "server": "cloudflare"
+    }
+  },
+  "Shopify": {
+    "html": "cdn\\.shopify\\.com",
+    "cookies": "_shopify_y"
+  },
+  "WordPress": {
+    "html": "wp-content/themes"
+  },
+  "Google Analytics": {
+    "html": "google-analytics\\.com/analytics\\.js"
+  }
+}
