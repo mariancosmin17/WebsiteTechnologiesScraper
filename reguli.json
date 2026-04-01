@@ -1,17 +1,82 @@
 {
   "Cloudflare": {
-    "headers": {
-      "server": "cloudflare"
-    }
+    "headers": { "server": "cloudflare" }
+  },
+  "Nginx": {
+    "headers": { "server": "nginx" }
+  },
+  "Apache": {
+    "headers": { "server": "apache" }
   },
   "Shopify": {
     "html": "cdn\\.shopify\\.com",
     "cookies": "_shopify_y"
   },
+  "WooCommerce": {
+    "html": "woocommerce-layout\\.css",
+    "headers": { "x-powered-by": "woocommerce" }
+  },
+  "Magento": {
+    "cookies": "frontend",
+    "html": "mage/cookies\\.js"
+  },
+  "BigCommerce": {
+    "html": "cdn[0-9]+\\.bigcommerce\\.com"
+  },
+  "PrestaShop": {
+    "html": "content=\"PrestaShop\""
+  },
+  "Wix": {
+    "headers": { "x-wix-request-id": "" },
+    "html": "wix\\.com"
+  },
+  "Squarespace": {
+    "headers": { "server": "Squarespace" }
+  },
   "WordPress": {
     "html": "wp-content/themes"
   },
   "Google Analytics": {
-    "html": "google-analytics\\.com/analytics\\.js"
+    "html": "google-analytics\\.com/analytics\\.js|googletagmanager\\.com/gtag"
+  },
+  "Facebook Pixel": {
+    "html": "connect\\.facebook\\.net/en_US/fbevents\\.js"
+  },
+  "TikTok Pixel": {
+    "html": "analytics\\.tiktok\\.com/i18n/pixel"
+  },
+  "Hotjar": {
+    "html": "static\\.hotjar\\.com/c/hotjar-"
+  },
+  "Klaviyo": {
+    "html": "static\\.klaviyo\\.com"
+  },
+  "Mailchimp": {
+    "html": "chimpstatic\\.com"
+  },
+  "React": {
+    "html": "data-reactroot|react-dom\\.production"
+  },
+  "Vue.js": {
+    "html": "data-v-[a-zA-Z0-9]{8}"
+  },
+  "jQuery": {
+    "html": "jquery[0-9\\.-]*\\.js"
+  },
+  "Bootstrap": {
+    "html": "bootstrap(\\.min)?\\.css"
+  },
+  "PHP": {
+    "headers": { "x-powered-by": "php" },
+    "cookies": "PHPSESSID"
+  },
+  "Express.js": {
+    "headers": { "x-powered-by": "Express" }
+  },
+  "Next.js": {
+    "html": "id=\"__next\""
+  },
+  "Nuxt.js": {
+    "html": "id=\"__nuxt\""
   }
 }
